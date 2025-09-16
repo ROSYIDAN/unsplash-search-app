@@ -10,6 +10,8 @@ Users can search for images by keyword, and results are displayed in a clean gal
 - 📱 Responsive design
 - ⚡ Powered by React Query for data fetching & caching
 
+🚀 Deploy
+    https://cheery-tarsier-c09e3c.netlify.app/
 
 🛠️ Tech Stack
 - [React](https://reactjs.org/)
